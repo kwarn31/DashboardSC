@@ -2,3 +2,5 @@
 pandas 
 plotly 
 streamlit 
+xlrd
+plotly.express
