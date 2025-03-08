@@ -1,7 +1,7 @@
 import streamlit as st
-import plotly.express as px
+import plotly as px
 import pandas as pd
-import plotly 
+
 
 
 st.title(" :bar_chart: Sample SuperStore EDA")
